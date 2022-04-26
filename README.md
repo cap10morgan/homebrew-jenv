@@ -1,6 +1,6 @@
-# homebrew-jenv
-Homebrew tap for my jenv fork
+# homebrew-tap
+Homebrew tap for my formulae
 
 ## Usage
 
-`brew install cap10morgan/jenv`
+`brew tap cap10morgan/tap`
